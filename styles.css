@@ -1,0 +1,18 @@
+/*  styles.css */
+
+*{
+    background-color: coral;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{text-align:center;
+    align-items:center;
+}
+ol{align-items:left;
+    text-align:left;
+}
+
+ul{
+    align-items:left;
+    text-align:left;
+    list-style-type:square
+}
